@@ -2,7 +2,8 @@
 
 Nesse conteudo vc encontra o desenvolvimento de um site de uma Barbearia com base no curso de instrução.
 
-- https://main.d2lka21fp256vq.amplifyapp.com/
+<a href="" color="white">
+      Acesse Aqui
 
 ****
 
