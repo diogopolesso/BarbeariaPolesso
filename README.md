@@ -1,8 +1,8 @@
-## **BarbeariaPolesso**
+## **Barbearia Polesso**
 
 Nesse conteudo vc encontra o desenvolvimento de um site de uma Barbearia com base no curso de instrução.
 
-<a href="https://diogopolesso.github.io/Site-Pessoal-Responsivo/" color="white">
+<a href="https://diogopolesso.github.io/BarbeariaPolesso/" color="white">
       Acesse Aqui
 
 ****
